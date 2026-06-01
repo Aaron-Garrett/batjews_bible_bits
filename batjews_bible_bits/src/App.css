@@ -1,0 +1,93 @@
+/* Morning (6 AM - 11 AM): Soft peach and pale sky blue */
+.bg-morning {
+  background: linear-gradient(135deg, #fceade 0%, #e3f2fd 100%);
+}
+
+/* Afternoon (11 AM - 5 PM): Bright, clean, crisp daylight */
+.bg-afternoon {
+  background: linear-gradient(135deg, #f5f7fa 0%, #e4e8f0 100%);
+}
+
+/* Evening (5 PM - 9 PM): Warm amber sunset blending into dusk */
+.bg-evening {
+  background: linear-gradient(135deg, #fad0c4 0%, #ffd1ff 100%);
+}
+
+/* Night (9 PM - 6 AM): Deep, quiet midnight sky */
+.bg-night {
+  background: linear-gradient(135deg, #141e30 0%, #243b55 100%);
+  color: #d4c8b0;
+  --card-bg: #1e1e1e;
+  --text-color: #e0e0e0;
+}
+
+/* 1. Default Light Mode variables */
+:root, [color-theme="light"] {
+  --bg-color: #f9f8f6;       /* Soft off-white */
+  --text-color: #2d2d2d;     /* Deep charcoal */
+  --accent-color: #4a6b5d;   /* Sage Green */
+  --card-bg: #ffffff;
+  --border-color: #e6e4e0;
+}
+
+/* 2. Dark Mode variables */
+[color-theme="dark"] {
+  --bg-color: #121212;       /* Material dark */
+  --text-color: #e0e0e0;     /* Soft white */
+  --accent-color: #8fae9f;   /* Muted light sage */
+  --card-bg: #1e1e1e;
+  --border-color: #2d2d2d;
+}
+
+/* 3. Sepia Mode variables (The "Book" Aesthetic) */
+[color-theme="sepia"] {
+  --bg-color: #f4ecd8;       /* Warm parchment */
+  --text-color: #433422;     /* Deep coffee brown */
+  --accent-color: #8c6239;   /* Warm terracotta */
+  --card-bg: #fdf8eb;
+  --border-color: #e4d7ba;
+}
+
+header {
+  background-color: var(--card-bg);
+  border-bottom: 1px solid var(--border-color);
+  padding: 1rem;
+  text-align: center;
+}
+
+/* Apply the variables globally */
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  min-height: 100vh;
+  transition: background-color 0.3s ease, color 0.3s ease; /* Smooth transition */
+  font-family: 'Lora', Georgia, serif;
+}
+
+/* Example component styles */
+.devotional {
+  background-color: var(--card-bg);
+  border: 1px solid var(--border-color);
+  padding: 2rem;
+  border-radius: 8px;
+  width: 50%;
+  margin: 2rem auto;
+}
+
+.devotional h2 {
+  color: var(--border-color);
+  margin-bottom: 1rem;
+  text-decoration: underline;
+}
+
+.devotional:hover {
+  box-shadow: 0 4px 8px var(--accent-color);
+  scale: 1.02;
+}
+
+.scripture-verse {
+  color: var(--accent-color);
+  font-style: italic;
+  border-left: 3px solid var(--accent-color);
+  padding-left: 1rem;
+}
