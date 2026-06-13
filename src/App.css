@@ -64,18 +64,25 @@ body {
   font-family: 'Lora', Georgia, serif;
 }
 
+.App-header {
+  font-size: 1.5rem;
+  color: floralwhite;
+  font-family: 'Playfair Display', serif;
+  background-color: #3a84ef;
+}
+
 /* Example component styles */
 .devotional {
   background-color: var(--card-bg);
   border: 1px solid var(--border-color);
   padding: 2rem;
   border-radius: 8px;
-  width: 50%;
+  width: 80%;
   margin: 2rem auto;
 }
 
 .devotional h2 {
-  color: var(--border-color);
+  color: var(--accent-color);
   margin-bottom: 1rem;
   text-decoration: underline;
 }
@@ -90,4 +97,11 @@ body {
   font-style: italic;
   border-left: 3px solid var(--accent-color);
   padding-left: 1rem;
+}
+
+@media (min-width: 600px) {
+  .devotional {
+    width: 70%;
+    padding: 1rem;
+  }
 }
