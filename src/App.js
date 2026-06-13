@@ -2,6 +2,7 @@ import { useState } from 'react';
 import ThemeSwitcher from './ThemeSwitcher';
 import TimeBasedWrapper from './TimeBasedWrapper';
 import ScrollReveal from './ScrollReveal';
+import siteHeader from './img/siteHeader.png';
 import './App.css';
 
 function App() {
@@ -12,7 +13,7 @@ function App() {
   const content = (
     <div className="App">
       <header className="App-header">
-        <h1>BatJew's Bible Bits</h1>
+        <img src={siteHeader} className="App-logo" alt="header_image" />
         <ThemeSwitcher theme={theme} onThemeChange={setTheme} />
       </header>
       <main>

@@ -19,7 +19,7 @@ export default function ThemeSwitcher({ theme: externalTheme, onThemeChange }) {
 
   return (
     <div className="theme-switcher-container">
-      <span className="theme-label">Reading Mode:</span>
+      {/* <span className="theme-label">Reading Mode:</span> */}
       {window.innerWidth < 600 && (
         <div className="button-group">
           <button
