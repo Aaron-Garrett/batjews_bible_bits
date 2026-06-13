@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/batjews_bible_bits/static/css/main.df4e1646.css",
+    "main.js": "/batjews_bible_bits/static/js/main.c0ebaadc.js",
+    "static/js/453.1c5c124a.chunk.js": "/batjews_bible_bits/static/js/453.1c5c124a.chunk.js",
+    "index.html": "/batjews_bible_bits/index.html",
+    "main.df4e1646.css.map": "/batjews_bible_bits/static/css/main.df4e1646.css.map",
+    "main.c0ebaadc.js.map": "/batjews_bible_bits/static/js/main.c0ebaadc.js.map",
+    "453.1c5c124a.chunk.js.map": "/batjews_bible_bits/static/js/453.1c5c124a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df4e1646.css",
+    "static/js/main.c0ebaadc.js"
+  ]
+}
