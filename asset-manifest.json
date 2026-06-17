@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/batjews_bible_bits/static/css/main.36068e3a.css",
-    "main.js": "/batjews_bible_bits/static/js/main.625d2fa0.js",
+    "main.js": "/batjews_bible_bits/static/js/main.b6289bbd.js",
     "static/js/453.1c5c124a.chunk.js": "/batjews_bible_bits/static/js/453.1c5c124a.chunk.js",
     "static/media/siteHeader.png": "/batjews_bible_bits/static/media/siteHeader.94e38540ac9f7ab236fa.png",
     "index.html": "/batjews_bible_bits/index.html",
     "main.36068e3a.css.map": "/batjews_bible_bits/static/css/main.36068e3a.css.map",
-    "main.625d2fa0.js.map": "/batjews_bible_bits/static/js/main.625d2fa0.js.map",
+    "main.b6289bbd.js.map": "/batjews_bible_bits/static/js/main.b6289bbd.js.map",
     "453.1c5c124a.chunk.js.map": "/batjews_bible_bits/static/js/453.1c5c124a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.36068e3a.css",
-    "static/js/main.625d2fa0.js"
+    "static/js/main.b6289bbd.js"
   ]
 }
