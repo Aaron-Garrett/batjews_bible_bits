@@ -19,6 +19,49 @@ function App() {
       <main>
         <div>
           <div className="devotional">
+            <h2>📅 June 17, 2026</h2>
+            <ScrollReveal>
+              <div className="scripture-verse">
+                <h3>📖 Scripture</h3>
+                <p>“For the word of God is living and active and sharper than any double-edged sword, piercing even to the point of dividing soul from spirit, and joints from marrow; it is able to judge the desires and thoughts of the heart. And no creature is hidden from God, but everything is naked and exposed to the eyes of him to whom we must render an account.” Hebrews 4:12-13</p>
+              </div>
+            </ScrollReveal>
+            <ScrollReveal>
+              <div className="meditation">
+                <h3>🧘 Meditation</h3>
+                <p>
+                  The context of this passage is discussing entering G-d’s rest. We must be obedient and enter into rest as G-d commands. For if we do not, then
+                  it is disobedience and prevents us from receiving G-d’s eternal rest. This chapter also ends with exhorting us to reach out to Christ as our 
+                  intercessor so that we may confidently approach the throne of G-d for mercy when we need help. With that in mind, this passage is quite vivid. 
+                  Especially so when you learn that the word translated “exposed” is intended to invoke the image of someone’s throat being bared for a killing blow. 
+                  It is a position of extreme, if not ultimate, vulnerability, where your life is completely in someone else’s hand. G-d knows your actions and your heart 
+                  perfectly. He sees all of us in our entirely, so much so that we are baring our neck to Him and appear naked before him. We cannot hide anything and are 
+                  completely at His mercy. Fortunately for us, G-d discernment is also perfect. Able to divide things that inherently go together in His wisdom and sight. 
+                  This gives us hope to complete the call to action of the next three verses, which starts with confession. We must confess our sins to G-d. G-d knows us. 
+                  He sees us intimately. He already knows our sins. We need not fear to approach Him for help when we fall short. Christ knows our weaknesses and empathizes 
+                  with us. Therefore, out of love, He is eternally interceding for us. This should give us confidence in the grace and mercy that we will receive when seeking 
+                  forgiveness and assistance in honoring Him.
+                </p>
+              </div>
+            </ScrollReveal>
+            <ScrollReveal>
+              <div className="application">
+                <h3>📝 Application</h3>
+                <p>I think there are different ways to apply the passage, but I am going to focus on two. Firstly, I believe one can draw a great deal of comfort from this passage. To be intimately
+                   and perfectly known is intimidating. However, to be known intimately and perfectly and chosen and loved is exhilarating and comforting. And this bleeds over into the second 
+                   application: supplication. We are called to confession and to confidence in grace and mercy. Yet, we often hide in our sin. We feel shame, just as Adam and Eve did, hiding in the 
+                   bushes after realizing they were naked. We let that shame separate us from G-d without thinking about the fact that He already knows. “How could He love me?” we ask. “Grace is good 
+                   for everyone else, but I’m not worthy,” we lie to ourselves. But G-d sees it all. He has discerned it all. And Christ intercedes on our behalf with perfect empathy and understanding, 
+                   having been tempted as we are tempted. Yes, disobedience is bad, but it is worse to break our connection to G-d because of it. We must flee to him, not from him when we fall short. We 
+                   must seek his mercy, grace, and aid in response to our shortcomings. He will help us as His power is made perfect in our soul’s desire for sufficiency. He will help us because He loves 
+                   us. He will help us for the fulfillment of His power. He will help us for His glory. We get to be confident in this because of Christ’s sacrifice for us. So today, think: are there any 
+                   sins that you’re trying to hide from G-d? Any barriers in the way of your connection with Him? If there are, confess them. Take them to Him with full transparency. There is no shame, only love. 
+                  Ask Him to enter your heart and help to change you, to help you overcome your struggle(s). Just as any parent would help their child, so our heavenly Father will help you.
+                </p>
+              </div>
+            </ScrollReveal>
+          </div>
+          <div className="devotional">
             <h2>📅 June 16, 2026</h2>
             <ScrollReveal>
               <div className="scripture-verse">
