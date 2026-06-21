@@ -19,6 +19,43 @@ function App() {
       <main>
         <div>
           <div className="devotional">
+            <h2>📅 June 21, 2026</h2>
+            <ScrollReveal>
+              <div className="scripture-verse">
+                <h3>📖 Scripture</h3>
+                <p>“If you then, although you are evil, know how to give good gifts to your children, how much more will your Father in heaven give good gifts to those who ask him!” Matthew 7:11</p>
+              </div>
+            </ScrollReveal>
+            <ScrollReveal>
+              <div className="meditation">
+                <h3>🧘 Meditation</h3>
+                <p>G-d is our Father; He shows us exactly what it looks like to be the perfect Father. What are some of the key characteristics of G-d? 
+                  Slow to anger, just, loving, honest, firm, jealous (worth digging into this character trait more!), providing, patient, comforting, 
+                  listening, caring, empathetic, merciful, gracious. I could keep going, but his is a good list to start with 😊. This verse highlights that
+                   we, despite being wicked, display some of these qualities when we act out our role as parents. It highlights that we know how much we love 
+                   and wish to provide for our own children and puts into perspective that we want those things while still being selfish and prone to evil. It 
+                   begs us to think about how our perfect Father must see and feel about us when we are able to feel so deeply for our own children, in our own 
+                   imperfect way.
+                </p>
+              </div>
+            </ScrollReveal>
+            <ScrollReveal>
+              <div className="application">
+                <h3>📝 Application</h3>
+                <p>
+                  Take time this Father’s Day to really consider how you are representing our Heavenly Father to your children. Think about G-d’s traits and how 
+                  He is as a Father and think about ways you can better demonstrate that to your own children. How can you show them more love? How can you show 
+                  them more patience and grace? Can you comfort them better? Are you letting them seek others to fill the role of “father” that you are supposed 
+                  to be filling? If so, how can you bring them back to you using the knowledge that love and kindness leads to repentance? Parenting is hard. And 
+                  it is hard to admit our shortcomings and screw ups because we are trying our best and it is the most important call on our lives. But the same 
+                  importance that makes it hard to admit we’re screwing it up is the same importance that demands we confront our shortcomings and seek to become 
+                  better than we were yesterday. We will become better parents as we become more Christ-like. Keep walking and inviting your kids to walk alongside 
+                  with you.
+                </p>
+              </div>
+            </ScrollReveal>
+          </div>
+          <div className="devotional">
             <h2>📅 June 17, 2026</h2>
             <ScrollReveal>
               <div className="scripture-verse">
