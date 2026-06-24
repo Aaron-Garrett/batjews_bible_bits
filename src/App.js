@@ -19,6 +19,45 @@ function App() {
       <main>
         <div>
           <div className="devotional">
+            <h2>📅 June 24, 2026</h2>
+            <ScrollReveal>
+              <div className="scripture-verse">
+                <h3>📖 Scripture</h3>
+                <p>
+                  “Do not neglect hospitality, because through it some have entertained angels without knowing it.”	Hebrews 13:2
+                </p>
+              </div>
+            </ScrollReveal>
+            <ScrollReveal>
+              <div className="meditation">
+                <h3>🧘 Meditation</h3>
+                <p>
+                  Well, I feel like this one is self-explanatory. I won’t do a deep dive into the words since they seem to be translated fairly literally, 
+                  without needing to squish any imagery or meaning into modern English. Instead, we’re going to go back to Scripture where we see this play 
+                  out for the first time: Abraham and Lot in Genesis 18/19. Both go out of their way to serve these strangers in the extreme. For some clarity 
+                  on how over-the-top they were, Abraham told Sarah to make 40-60 pounds of bread for the three men and Lot provided them a feast and protected 
+                  them from the men of Sodom. This passage reminds me of Christ’s statement: “And the king will answer them, 'I tell you the truth, just as you 
+                  did it for one of the least of these brothers or sisters of mine, you did it for me.'” (Matthew 25:40) 
+                </p>
+              </div>
+            </ScrollReveal>
+            <ScrollReveal>
+              <div className="application">
+                <h3>📝 Application</h3>
+                <p>
+                 We are called to be as wise as serpents and as gentle as doves. The sad reality is that we live in a time and place where inviting 
+                 strangers into your home can be exceptionally dangerous. However, I do not remember the last time I fed a stranger, much less invited 
+                 them into my house. Not someone I met at church or work, much less someone like a door-to-door salesman. We should take time to think 
+                 about how we can show better hospitality to strangers. You never know when one might be sent from G-d, either as a messenger to you or 
+                 for you to be a light for them. How can we be hospitable while remaining wise? There’s no need to let total strangers into your home to 
+                 be hospitable, Abraham ran to greet the men and talked with them outside of his tent. Why don’t we step outside to talk? Being a light 
+                 for the world is a big calling and so is making disciples of all nations, but we should be starting right here, at the doorstep to our 
+                 homes. If we can’t do it there, what makes us think we can be a light anywhere else?
+                </p>
+              </div>
+            </ScrollReveal>
+          </div>
+          <div className="devotional">
             <h2>📅 June 21, 2026</h2>
             <ScrollReveal>
               <div className="scripture-verse">
@@ -29,13 +68,13 @@ function App() {
             <ScrollReveal>
               <div className="meditation">
                 <h3>🧘 Meditation</h3>
-                <p>G-d is our Father; He shows us exactly what it looks like to be the perfect Father. What are some of the key characteristics of G-d? 
-                  Slow to anger, just, loving, honest, firm, jealous (worth digging into this character trait more!), providing, patient, comforting, 
+                <p>G-d is our Father; He shows us exactly what it looks like to be the perfect Father. What are some of the key characteristics of G-d?
+                  Slow to anger, just, loving, honest, firm, jealous (worth digging into this character trait more!), providing, patient, comforting,
                   listening, caring, empathetic, merciful, gracious. I could keep going, but his is a good list to start with 😊. This verse highlights that
-                   we, despite being wicked, display some of these qualities when we act out our role as parents. It highlights that we know how much we love 
-                   and wish to provide for our own children and puts into perspective that we want those things while still being selfish and prone to evil. It 
-                   begs us to think about how our perfect Father must see and feel about us when we are able to feel so deeply for our own children, in our own 
-                   imperfect way.
+                  we, despite being wicked, display some of these qualities when we act out our role as parents. It highlights that we know how much we love
+                  and wish to provide for our own children and puts into perspective that we want those things while still being selfish and prone to evil. It
+                  begs us to think about how our perfect Father must see and feel about us when we are able to feel so deeply for our own children, in our own
+                  imperfect way.
                 </p>
               </div>
             </ScrollReveal>
@@ -43,13 +82,13 @@ function App() {
               <div className="application">
                 <h3>📝 Application</h3>
                 <p>
-                  Take time this Father’s Day to really consider how you are representing our Heavenly Father to your children. Think about G-d’s traits and how 
-                  He is as a Father and think about ways you can better demonstrate that to your own children. How can you show them more love? How can you show 
-                  them more patience and grace? Can you comfort them better? Are you letting them seek others to fill the role of “father” that you are supposed 
-                  to be filling? If so, how can you bring them back to you using the knowledge that love and kindness leads to repentance? Parenting is hard. And 
-                  it is hard to admit our shortcomings and screw ups because we are trying our best and it is the most important call on our lives. But the same 
-                  importance that makes it hard to admit we’re screwing it up is the same importance that demands we confront our shortcomings and seek to become 
-                  better than we were yesterday. We will become better parents as we become more Christ-like. Keep walking and inviting your kids to walk alongside 
+                  Take time this Father’s Day to really consider how you are representing our Heavenly Father to your children. Think about G-d’s traits and how
+                  He is as a Father and think about ways you can better demonstrate that to your own children. How can you show them more love? How can you show
+                  them more patience and grace? Can you comfort them better? Are you letting them seek others to fill the role of “father” that you are supposed
+                  to be filling? If so, how can you bring them back to you using the knowledge that love and kindness leads to repentance? Parenting is hard. And
+                  it is hard to admit our shortcomings and screw ups because we are trying our best and it is the most important call on our lives. But the same
+                  importance that makes it hard to admit we’re screwing it up is the same importance that demands we confront our shortcomings and seek to become
+                  better than we were yesterday. We will become better parents as we become more Christ-like. Keep walking and inviting your kids to walk alongside
                   with you.
                 </p>
               </div>
@@ -68,15 +107,15 @@ function App() {
                 <h3>🧘 Meditation</h3>
                 <p>
                   The context of this passage is discussing entering G-d’s rest. We must be obedient and enter into rest as G-d commands. For if we do not, then
-                  it is disobedience and prevents us from receiving G-d’s eternal rest. This chapter also ends with exhorting us to reach out to Christ as our 
-                  intercessor so that we may confidently approach the throne of G-d for mercy when we need help. With that in mind, this passage is quite vivid. 
-                  Especially so when you learn that the word translated “exposed” is intended to invoke the image of someone’s throat being bared for a killing blow. 
-                  It is a position of extreme, if not ultimate, vulnerability, where your life is completely in someone else’s hand. G-d knows your actions and your heart 
-                  perfectly. He sees all of us in our entirely, so much so that we are baring our neck to Him and appear naked before him. We cannot hide anything and are 
-                  completely at His mercy. Fortunately for us, G-d discernment is also perfect. Able to divide things that inherently go together in His wisdom and sight. 
-                  This gives us hope to complete the call to action of the next three verses, which starts with confession. We must confess our sins to G-d. G-d knows us. 
-                  He sees us intimately. He already knows our sins. We need not fear to approach Him for help when we fall short. Christ knows our weaknesses and empathizes 
-                  with us. Therefore, out of love, He is eternally interceding for us. This should give us confidence in the grace and mercy that we will receive when seeking 
+                  it is disobedience and prevents us from receiving G-d’s eternal rest. This chapter also ends with exhorting us to reach out to Christ as our
+                  intercessor so that we may confidently approach the throne of G-d for mercy when we need help. With that in mind, this passage is quite vivid.
+                  Especially so when you learn that the word translated “exposed” is intended to invoke the image of someone’s throat being bared for a killing blow.
+                  It is a position of extreme, if not ultimate, vulnerability, where your life is completely in someone else’s hand. G-d knows your actions and your heart
+                  perfectly. He sees all of us in our entirely, so much so that we are baring our neck to Him and appear naked before him. We cannot hide anything and are
+                  completely at His mercy. Fortunately for us, G-d discernment is also perfect. Able to divide things that inherently go together in His wisdom and sight.
+                  This gives us hope to complete the call to action of the next three verses, which starts with confession. We must confess our sins to G-d. G-d knows us.
+                  He sees us intimately. He already knows our sins. We need not fear to approach Him for help when we fall short. Christ knows our weaknesses and empathizes
+                  with us. Therefore, out of love, He is eternally interceding for us. This should give us confidence in the grace and mercy that we will receive when seeking
                   forgiveness and assistance in honoring Him.
                 </p>
               </div>
@@ -85,14 +124,14 @@ function App() {
               <div className="application">
                 <h3>📝 Application</h3>
                 <p>I think there are different ways to apply the passage, but I am going to focus on two. Firstly, I believe one can draw a great deal of comfort from this passage. To be intimately
-                   and perfectly known is intimidating. However, to be known intimately and perfectly and chosen and loved is exhilarating and comforting. And this bleeds over into the second 
-                   application: supplication. We are called to confession and to confidence in grace and mercy. Yet, we often hide in our sin. We feel shame, just as Adam and Eve did, hiding in the 
-                   bushes after realizing they were naked. We let that shame separate us from G-d without thinking about the fact that He already knows. “How could He love me?” we ask. “Grace is good 
-                   for everyone else, but I’m not worthy,” we lie to ourselves. But G-d sees it all. He has discerned it all. And Christ intercedes on our behalf with perfect empathy and understanding, 
-                   having been tempted as we are tempted. Yes, disobedience is bad, but it is worse to break our connection to G-d because of it. We must flee to him, not from him when we fall short. We 
-                   must seek his mercy, grace, and aid in response to our shortcomings. He will help us as His power is made perfect in our soul’s desire for sufficiency. He will help us because He loves 
-                   us. He will help us for the fulfillment of His power. He will help us for His glory. We get to be confident in this because of Christ’s sacrifice for us. So today, think: are there any 
-                   sins that you’re trying to hide from G-d? Any barriers in the way of your connection with Him? If there are, confess them. Take them to Him with full transparency. There is no shame, only love. 
+                  and perfectly known is intimidating. However, to be known intimately and perfectly and chosen and loved is exhilarating and comforting. And this bleeds over into the second
+                  application: supplication. We are called to confession and to confidence in grace and mercy. Yet, we often hide in our sin. We feel shame, just as Adam and Eve did, hiding in the
+                  bushes after realizing they were naked. We let that shame separate us from G-d without thinking about the fact that He already knows. “How could He love me?” we ask. “Grace is good
+                  for everyone else, but I’m not worthy,” we lie to ourselves. But G-d sees it all. He has discerned it all. And Christ intercedes on our behalf with perfect empathy and understanding,
+                  having been tempted as we are tempted. Yes, disobedience is bad, but it is worse to break our connection to G-d because of it. We must flee to him, not from him when we fall short. We
+                  must seek his mercy, grace, and aid in response to our shortcomings. He will help us as His power is made perfect in our soul’s desire for sufficiency. He will help us because He loves
+                  us. He will help us for the fulfillment of His power. He will help us for His glory. We get to be confident in this because of Christ’s sacrifice for us. So today, think: are there any
+                  sins that you’re trying to hide from G-d? Any barriers in the way of your connection with Him? If there are, confess them. Take them to Him with full transparency. There is no shame, only love.
                   Ask Him to enter your heart and help to change you, to help you overcome your struggle(s). Just as any parent would help their child, so our heavenly Father will help you.
                 </p>
               </div>
@@ -109,36 +148,36 @@ function App() {
             <ScrollReveal>
               <div className="meditation">
                 <h3>🧘 Meditation</h3>
-                <p>Firstly, looking at the what the words mean in their native Greek provides some greater insights here. “Sufficient” is directly translated to something akin to 
-                “possessing unfailing strength/to be enough” or “to be satisfied/contented.” Meanwhile, the phrase “made perfect” is directly translated as “bring to a close/end” 
-                or “perform, execute, complete, or fulfill.” The word “weakness” is actually a want of strength and spiritual capacity to do something, likely here restraining corrupt
-                 desires and/or bear trials and troubles. I find “boast” to be a very interesting choice here. It is, I think, the best word that will be understood broadly, but is 
-                 missing quite a bit of nuance compared to the direct translation “to glory in a thing.” To boast of one’s weakness is different than glorying in it. The definition of
+                <p>Firstly, looking at the what the words mean in their native Greek provides some greater insights here. “Sufficient” is directly translated to something akin to
+                  “possessing unfailing strength/to be enough” or “to be satisfied/contented.” Meanwhile, the phrase “made perfect” is directly translated as “bring to a close/end”
+                  or “perform, execute, complete, or fulfill.” The word “weakness” is actually a want of strength and spiritual capacity to do something, likely here restraining corrupt
+                  desires and/or bear trials and troubles. I find “boast” to be a very interesting choice here. It is, I think, the best word that will be understood broadly, but is
+                  missing quite a bit of nuance compared to the direct translation “to glory in a thing.” To boast of one’s weakness is different than glorying in it. The definition of
                   “glory” as a verb is to “rejoice loudly or exult with joy” whereas “boast” is defined as praising oneself extravagantly in speech/speak of oneself with excessive pride.”
-                   These are different words with different connotations. Paul isn’t saying that he is proud of his weakness, or that he is praising them. He is saying that he will happily 
-                   lift his weaknesses up and speak of them. He will celebrate that he has them, but he is not praising or expressing pride in his weaknesses. Finally, “may reside” I think
-                    lacks the permanence and sincerity of the direct translation: “to fix a tent or habitation on.” Again, yes, these words are functionally similar, but nuance is missing
-                     in the translation. The image of Christ fixing a habitation within us feels personal. Permanent. I “reside” in an Airbnb on vacation, but that requires no work and I can
-                      leave with barely more than a thought. However, if I go camping, I pitch a tent. That requires time, effort, planning, and intentionality. And to leave, I must either
-                       leave it there as a permanent fixture to come back to. A fixture I own and am responsible for, or I must take it down, which requires a great deal of effort. Again, the
-                        idea of pitching a tent is more permanent and intentional than just residing somewhere. So, if we were to look at this verse with those key words utilizing their direct
-                         definitions, it would look like this: “But He said to me, ‘My grace is unfailing and enough for you, for my power is completed and fulfilled in your want of the strength
-                          to withstand this trouble.’ So then, I will exult in my desire for greater spiritual capacity, so that the power of Christ may build itself a home in me.” This, I think, 
-                          clearly outlines the meaning → G-d will provide the strength we so desire as a completion to His glory and power.</p>
+                  These are different words with different connotations. Paul isn’t saying that he is proud of his weakness, or that he is praising them. He is saying that he will happily
+                  lift his weaknesses up and speak of them. He will celebrate that he has them, but he is not praising or expressing pride in his weaknesses. Finally, “may reside” I think
+                  lacks the permanence and sincerity of the direct translation: “to fix a tent or habitation on.” Again, yes, these words are functionally similar, but nuance is missing
+                  in the translation. The image of Christ fixing a habitation within us feels personal. Permanent. I “reside” in an Airbnb on vacation, but that requires no work and I can
+                  leave with barely more than a thought. However, if I go camping, I pitch a tent. That requires time, effort, planning, and intentionality. And to leave, I must either
+                  leave it there as a permanent fixture to come back to. A fixture I own and am responsible for, or I must take it down, which requires a great deal of effort. Again, the
+                  idea of pitching a tent is more permanent and intentional than just residing somewhere. So, if we were to look at this verse with those key words utilizing their direct
+                  definitions, it would look like this: “But He said to me, ‘My grace is unfailing and enough for you, for my power is completed and fulfilled in your want of the strength
+                  to withstand this trouble.’ So then, I will exult in my desire for greater spiritual capacity, so that the power of Christ may build itself a home in me.” This, I think,
+                  clearly outlines the meaning → G-d will provide the strength we so desire as a completion to His glory and power.</p>
               </div>
             </ScrollReveal>
             <ScrollReveal>
               <div className="application">
                 <h3>📝 Application</h3>
-                <p>We needn’t be ashamed of the areas we struggle in. We need to turn those into areas where we crave spiritual capacity. Where we seek 
-                  the ability to bear the burden(s). These are things we should be taking to G-d, just as Paul did. These are things that we should seek 
-                  to rejoice in so that we bring and show them to G-d rather than hiding them away in shame. This invites Christ into us so that he may build 
-                  a dwelling place within our souls. I think the key take away here is as follows: Do not hide your sin and weaknesses. Your “thorns.” 
-                  Instead, bring them to G-d and try to be excited for the opportunity they provide for G-d to transform you and provide you the capacity to 
-                  bear the burdens you carry. They are a pathway carved to your heart that Christ is able to easily travel. If we invite Him in, He will change us. 
+                <p>We needn’t be ashamed of the areas we struggle in. We need to turn those into areas where we crave spiritual capacity. Where we seek
+                  the ability to bear the burden(s). These are things we should be taking to G-d, just as Paul did. These are things that we should seek
+                  to rejoice in so that we bring and show them to G-d rather than hiding them away in shame. This invites Christ into us so that he may build
+                  a dwelling place within our souls. I think the key take away here is as follows: Do not hide your sin and weaknesses. Your “thorns.”
+                  Instead, bring them to G-d and try to be excited for the opportunity they provide for G-d to transform you and provide you the capacity to
+                  bear the burdens you carry. They are a pathway carved to your heart that Christ is able to easily travel. If we invite Him in, He will change us.
                   He will help us. And for those of you thinking “but who am I that He would do anything for me.” It isn’t about you. It is about His glory. HIS power
-                   is fulfilled by doing this. He is demonstrating the completeness of His own power through you. So take some time today to take Christ a thorn in your 
-                   side. Sit with Him and rejoice about the thorn. Invite Him in to transform your heart and grant you the strength you need to withstand it. 
+                  is fulfilled by doing this. He is demonstrating the completeness of His own power through you. So take some time today to take Christ a thorn in your
+                  side. Sit with Him and rejoice about the thorn. Invite Him in to transform your heart and grant you the strength you need to withstand it.
                 </p>
               </div>
             </ScrollReveal>
@@ -155,40 +194,40 @@ function App() {
               <div className="meditation">
                 <h3>🧘 Meditation</h3>
                 <p>Even in the end, Jesus points us to Truth. Everything Jesus said had layers. A ludicrously
-                   large number of his teachings and words referenced not only things in the present moment, 
-                   but Old Testament scriptures. These words, some of his last during his crucifixion, are no 
-                   different. This is how Psalm 22 starts. Go read it. Sit with it. Sit with the descriptions, 
-                   the isolation, the joyous refrain by the end. This is a Psalm of David, and it applies 100% 
-                   to David and his plight, but it also applies to his descendant.</p>
+                  large number of his teachings and words referenced not only things in the present moment,
+                  but Old Testament scriptures. These words, some of his last during his crucifixion, are no
+                  different. This is how Psalm 22 starts. Go read it. Sit with it. Sit with the descriptions,
+                  the isolation, the joyous refrain by the end. This is a Psalm of David, and it applies 100%
+                  to David and his plight, but it also applies to his descendant.</p>
               </div>
             </ScrollReveal>
             <ScrollReveal>
               <div className="application">
                 <h3>📝 Application</h3>
-                <p>Firstly, we need to sit with the reality of the crucifixion for a while. 
-                  I recommend doing this regularly, far more regularly than when you take 
-                  communion at church. This is the second-most pivotal moment is history, 
-                  coming only after the resurrection. This is the moment that Christ bore the sins 
-                  of the world and the only payment he requests is love. What did that look like? 
-                  Read Psalm 22 😁. The gratitude for this sacrifice, this ultimate act of love, 
-                  should be carving paths through our heart constantly. This is the reality we should be living 
-                  in. A perfect man was willing to be forsaken by His Heavenly Father in order that He may spend 
-                  eternity with us. You are worth loving. You are worth dying for. You are wanted for eternity. 
-                  You are seen. You are precious. You are worth the most excruciating death in historical 
-                  records. We should be striving to earn that. To be worth loving that much. That is what should 
+                <p>Firstly, we need to sit with the reality of the crucifixion for a while.
+                  I recommend doing this regularly, far more regularly than when you take
+                  communion at church. This is the second-most pivotal moment is history,
+                  coming only after the resurrection. This is the moment that Christ bore the sins
+                  of the world and the only payment he requests is love. What did that look like?
+                  Read Psalm 22 😁. The gratitude for this sacrifice, this ultimate act of love,
+                  should be carving paths through our heart constantly. This is the reality we should be living
+                  in. A perfect man was willing to be forsaken by His Heavenly Father in order that He may spend
+                  eternity with us. You are worth loving. You are worth dying for. You are wanted for eternity.
+                  You are seen. You are precious. You are worth the most excruciating death in historical
+                  records. We should be striving to earn that. To be worth loving that much. That is what should
                   drive us to flee from sin and run into Christ’s arms. It is my firm belief that if you do not
-                   have that reaction, you do not truly understand G-d’s love for you nor the sacrifice that 
-                   Christ made for you. For if you did, your world would shift. So ask yourself, has your world 
-                   shifted? Be honest about it. And if it has or hasn’t, spend some time really reflecting on 
-                   what G-d did for us. On what it entails, fully. The gruesome pain of the crucifixion. The 
-                   isolation from one’s own people. The knowledge of the pain being caused to those who love you. 
-                   The injustice of the perfect man dying at the whims of corrupt religious leaders. There are so 
-                   many more layers though that I invite you to wade through. The depth is remarkable. The reality 
-                   that someone who knows every wrong and terrible thing you have ever done into your life willingly 
-                   chose to suffer all of that, and even more that we cannot comprehend, just so that He could spend 
-                   eternity with you. He sees you as “very good” doing battle in a world which you were born into. 
-                   Spend the integrating that reality into your daily life, it will change how you see others for 
-                   they are viewed the same way as you.</p>
+                  have that reaction, you do not truly understand G-d’s love for you nor the sacrifice that
+                  Christ made for you. For if you did, your world would shift. So ask yourself, has your world
+                  shifted? Be honest about it. And if it has or hasn’t, spend some time really reflecting on
+                  what G-d did for us. On what it entails, fully. The gruesome pain of the crucifixion. The
+                  isolation from one’s own people. The knowledge of the pain being caused to those who love you.
+                  The injustice of the perfect man dying at the whims of corrupt religious leaders. There are so
+                  many more layers though that I invite you to wade through. The depth is remarkable. The reality
+                  that someone who knows every wrong and terrible thing you have ever done into your life willingly
+                  chose to suffer all of that, and even more that we cannot comprehend, just so that He could spend
+                  eternity with you. He sees you as “very good” doing battle in a world which you were born into.
+                  Spend the integrating that reality into your daily life, it will change how you see others for
+                  they are viewed the same way as you.</p>
               </div>
             </ScrollReveal>
           </div>
