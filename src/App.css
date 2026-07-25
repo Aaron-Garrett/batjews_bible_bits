@@ -137,7 +137,6 @@ body {
     width: 70%;
     padding: 1rem;
   }
-}
 
 .modal {
   display: none; /* Hidden by default */
@@ -148,6 +147,24 @@ body {
   top: 10vh;
   width: 80vw; /* Full width */
   height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--modal-bg);
+  color: var(--modal-text);
+  border: var(--modal-border) 3px solid;
+}
+}
+
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1000; /* Sit on top */
+  overflow: auto; /* Enable scroll if needed */
+  left: 5vw;
+  top: 5vh;
+  width: 90vw; /* Full width */
+  height: 90vh;
   display: flex;
   justify-content: center;
   align-items: center;
