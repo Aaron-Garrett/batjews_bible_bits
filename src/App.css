@@ -92,6 +92,10 @@ body {
   background-color: #3a84ef;
 }
 
+.App-logo {
+  max-width: 90vw;
+}
+
 /* Example component styles */
 .devotional {
   background-color: var(--card-bg);
