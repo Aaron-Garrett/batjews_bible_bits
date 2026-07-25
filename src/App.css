@@ -1,16 +1,25 @@
 /* Morning (6 AM - 11 AM): Soft peach and pale sky blue */
 .bg-morning {
   background: linear-gradient(135deg, #fceade 0%, #e3f2fd 100%);
+  --modal-bg: #fffaf3;
+  --modal-border: #a9d6e5;
+  --modal-text: #2d2d2d;
 }
 
 /* Afternoon (11 AM - 5 PM): Bright, clean, crisp daylight */
 .bg-afternoon {
   background: linear-gradient(135deg, #f5f7fa 0%, #e4e8f0 100%);
+  --modal-bg: #ffffff;
+  --modal-border: #9fb1c7;
+  --modal-text: #2d2d2d;
 }
 
 /* Evening (5 PM - 9 PM): Warm amber sunset blending into dusk */
 .bg-evening {
   background: linear-gradient(135deg, #fad0c4 0%, #ffd1ff 100%);
+  --modal-bg: #fff2ec;
+  --modal-border: #d98ba0;
+  --modal-text: #4a2c2a;
 }
 
 /* Night (9 PM - 6 AM): Deep, quiet midnight sky */
@@ -19,6 +28,9 @@
   color: #d4c8b0;
   --card-bg: #1e1e1e;
   --text-color: #e0e0e0;
+  --modal-bg: #1b2438;
+  --modal-border: #3f5a7d;
+  --modal-text: #d4c8b0;
 }
 
 /* 1. Default Light Mode variables */
@@ -28,6 +40,9 @@
   --accent-color: #4a6b5d;   /* Sage Green */
   --card-bg: #ffffff;
   --border-color: #e6e4e0;
+  --modal-bg: #ffffff;
+  --modal-border: #4a6b5d;
+  --modal-text: #2d2d2d;
 }
 
 /* 2. Dark Mode variables */
@@ -37,6 +52,9 @@
   --accent-color: #8fae9f;   /* Muted light sage */
   --card-bg: #1e1e1e;
   --border-color: #2d2d2d;
+  --modal-bg: #1e1e1e;
+  --modal-border: #8fae9f;
+  --modal-text: #e0e0e0;
 }
 
 /* 3. Sepia Mode variables (The "Book" Aesthetic) */
@@ -46,6 +64,9 @@
   --accent-color: #8c6239;   /* Warm terracotta */
   --card-bg: #fdf8eb;
   --border-color: #e4d7ba;
+  --modal-bg: #fdf8eb;
+  --modal-border: #8c6239;
+  --modal-text: #433422;
 }
 
 header {
@@ -92,6 +113,18 @@ body {
   scale: 1.02;
 }
 
+.devotionals-container {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+}
+
+@media (min-width: 600px) {
+  .devotionals-container {
+    grid-template-columns: 1fr 1fr 1fr; /* 3 columns for larger screens */
+  }
+}
+
 .scripture-verse {
   color: var(--accent-color);
   font-style: italic;
@@ -104,4 +137,43 @@ body {
     width: 70%;
     padding: 1rem;
   }
+}
+
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1000; /* Sit on top */
+  overflow: auto; /* Enable scroll if needed */
+  left: 10vw;
+  top: 10vh;
+  width: 80vw; /* Full width */
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--modal-bg);
+  color: var(--modal-text);
+  border: var(--modal-border) 3px solid;
+}
+
+.modal.open {
+  display: block; /* Show the modal when open */
+}
+
+.modal-content {
+  background-color: var(--modal-bg);
+  color: var(--modal-text);
+  padding: 2rem;
+  border-radius: 8px;
+  width: 100%;
+  height: 100%;
+  overflow-y: auto; /* Enable vertical scrolling */
+}
+
+.close {
+  color: var(--modal-border);
+  float: right;
+  font-size: 2rem;
+  font-weight: bold;
+  cursor: pointer;
 }
