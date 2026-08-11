@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/batjews_bible_bits/static/css/main.56af9316.css",
-    "main.js": "/batjews_bible_bits/static/js/main.34c8ee59.js",
+    "main.js": "/batjews_bible_bits/static/js/main.95a0b90f.js",
     "static/js/453.7b75fe26.chunk.js": "/batjews_bible_bits/static/js/453.7b75fe26.chunk.js",
     "static/media/siteHeader.png": "/batjews_bible_bits/static/media/siteHeader.94e38540ac9f7ab236fa.png",
     "static/media/June 9, 2026.docx": "/batjews_bible_bits/static/media/June 9, 2026.2faf229f698d8ecddd38.docx",
@@ -9,7 +9,7 @@
     "static/media/June 16, 2026.docx": "/batjews_bible_bits/static/media/June 16, 2026.f53fdcec72d48d679d63.docx",
     "static/media/August 3, 2026.docx": "/batjews_bible_bits/static/media/August 3, 2026.85747c80b73218859332.docx",
     "static/media/May 27, 2026.docx": "/batjews_bible_bits/static/media/May 27, 2026.f199302567ddfa7f1c9a.docx",
-    "static/media/August 10.docx": "/batjews_bible_bits/static/media/August 10.ffe9c9b448b020cd9e93.docx",
+    "static/media/August 10, 2026.docx": "/batjews_bible_bits/static/media/August 10, 2026.ffe9c9b448b020cd9e93.docx",
     "static/media/June 13, 2026.docx": "/batjews_bible_bits/static/media/June 13, 2026.861c9dda97cc5fd0611a.docx",
     "static/media/June 21, 2026.docx": "/batjews_bible_bits/static/media/June 21, 2026.0b3d92e4719d0c788b9f.docx",
     "static/media/June 1, 2026.docx": "/batjews_bible_bits/static/media/June 1, 2026.47b9dbb110c21b6e4ae6.docx",
@@ -17,11 +17,11 @@
     "static/media/July 26, 2026.docx": "/batjews_bible_bits/static/media/July 26, 2026.20c6533e0b559d5ee4e7.docx",
     "index.html": "/batjews_bible_bits/index.html",
     "main.56af9316.css.map": "/batjews_bible_bits/static/css/main.56af9316.css.map",
-    "main.34c8ee59.js.map": "/batjews_bible_bits/static/js/main.34c8ee59.js.map",
+    "main.95a0b90f.js.map": "/batjews_bible_bits/static/js/main.95a0b90f.js.map",
     "453.7b75fe26.chunk.js.map": "/batjews_bible_bits/static/js/453.7b75fe26.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.56af9316.css",
-    "static/js/main.34c8ee59.js"
+    "static/js/main.95a0b90f.js"
   ]
 }
