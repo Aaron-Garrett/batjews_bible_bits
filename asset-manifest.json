@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/batjews_bible_bits/static/css/main.56af9316.css",
-    "main.js": "/batjews_bible_bits/static/js/main.093f1289.js",
+    "main.js": "/batjews_bible_bits/static/js/main.2b9546a9.js",
     "static/js/453.7b75fe26.chunk.js": "/batjews_bible_bits/static/js/453.7b75fe26.chunk.js",
     "static/media/siteHeader.png": "/batjews_bible_bits/static/media/siteHeader.94e38540ac9f7ab236fa.png",
     "static/media/June 9, 2026.docx": "/batjews_bible_bits/static/media/June 9, 2026.2faf229f698d8ecddd38.docx",
     "static/media/April 12, 2026.docx": "/batjews_bible_bits/static/media/April 12, 2026.05ddaf6d8b7415dddf49.docx",
+    "static/media/September 19, 2026.docx": "/batjews_bible_bits/static/media/September 19, 2026.4a00369aab0d36d60f79.docx",
     "static/media/August 26, 2026.docx": "/batjews_bible_bits/static/media/August 26, 2026.2a34f229984723733954.docx",
     "static/media/June 17, 2026.docx": "/batjews_bible_bits/static/media/June 17, 2026.2398035f64b7b4bcdfbe.docx",
     "static/media/June 16, 2026.docx": "/batjews_bible_bits/static/media/June 16, 2026.f53fdcec72d48d679d63.docx",
@@ -20,11 +21,11 @@
     "static/media/July 26, 2026.docx": "/batjews_bible_bits/static/media/July 26, 2026.20c6533e0b559d5ee4e7.docx",
     "index.html": "/batjews_bible_bits/index.html",
     "main.56af9316.css.map": "/batjews_bible_bits/static/css/main.56af9316.css.map",
-    "main.093f1289.js.map": "/batjews_bible_bits/static/js/main.093f1289.js.map",
+    "main.2b9546a9.js.map": "/batjews_bible_bits/static/js/main.2b9546a9.js.map",
     "453.7b75fe26.chunk.js.map": "/batjews_bible_bits/static/js/453.7b75fe26.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.56af9316.css",
-    "static/js/main.093f1289.js"
+    "static/js/main.2b9546a9.js"
   ]
 }
